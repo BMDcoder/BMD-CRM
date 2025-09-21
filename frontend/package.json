@@ -1,0 +1,11 @@
+{
+  "name": "crm-mobile-app-starter",
+  "version": "0.1.0",
+  "main": "src/App.tsx",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.0",
+    "zustand": "^4.5.2",
+    "axios": "^1.6.7"
+  }
+}
