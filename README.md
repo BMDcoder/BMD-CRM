@@ -1,6 +1,6 @@
 # CRM Mobile App Starter
 
-A full-stack starter for a CRM mobile app with FastAPI backend and React Native frontend.
+A full-stack for a CRM mobile app with FastAPI backend and React Native frontend.
 
 ## Quickstart
 
